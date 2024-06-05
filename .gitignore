@@ -1,0 +1,9 @@
+.kaggle
+artifacts
+checkpoints
+dataset
+datasets
+tfrecords
+wandb
+logs.csv
+*.zip
